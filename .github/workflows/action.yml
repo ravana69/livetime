@@ -26,4 +26,4 @@ jobs:
           plugin_screenshot_background: no
           plugin_screenshot_selector: body
           plugin_screenshot_title: livetime
-          plugin_screenshot_url: https://screenapi.cc/350x300/google.com/search?q=time+and+date+in+india&oq=time+and+date+in+india
+          plugin_screenshot_url: https://screenapi.cc/google.com/search?q=time+and+date+in+india&oq=time+and+date+in+india
